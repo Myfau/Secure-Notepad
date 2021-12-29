@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PasswordNotepad</string>
+    <string name="password">Password:</string>
+    <string name="secure_notepad">Secure Notepad</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="changed_password">Changed Password</string>
+    <string name="biometric_failed">Biometric failed</string>
+    <string name="use_fingerprint_to_unlock">Use fingerprint to unlock</string>
+    <string name="unlock">Unlock</string>
+    <string name="biometric_login">Biometric Login</string>
+</resources>
